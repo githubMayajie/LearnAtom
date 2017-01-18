@@ -1,4 +1,4 @@
-[链接](flight-manual.atom.io)
+[链接](https://flight-manual.atom.io)
 ### chaper1: Getting started
 #### Why Atom?
 > Atom is a specialized variant of Chromium designed to be a next editor rather than a web browser.
